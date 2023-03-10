@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://github.com/mmrojoo/mmrojoo/blob/main/assets/Imagen%20de%20WhatsApp%202023-02-21%20a%20las%2012.04.57.jpg)
 <!--
 **mmrojoo/mmrojoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

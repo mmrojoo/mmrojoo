@@ -14,9 +14,11 @@ Soy un apasionado de la tecnología, el aprendizaje continuo y la construcción 
 
 ## 📌 Proyectos Destacados
 
-- [Project Name 1](#) — Short description of what it does.
-- [Project Name 2](#) — What makes it special.
-- [Project Name 3](#) — Technologies used.
+### [HockeyClubMaster_Final](https://github.com/mmrojoo/HockeyClubMaster_Final)
+HockeyClubMaster es una aplicación desarrollada en Java destinada a la gestión integral de un club de hockey. Permite administrar jugadores, equipos, calendarios, resultados de partidos y estadísticas, facilitando la organización y el seguimiento de las actividades del club tanto para entrenadores como para directivos.
+
+### [tfm](https://github.com/mmrojoo/tfm)
+Este proyecto es el Trabajo Fin de Máster (TFM), desarrollado principalmente en HTML, Python y JavaScript. Su objetivo es abordar una problemática específica (puedes agregar aquí la temática concreta de tu TFM), implementando soluciones prácticas mediante una aplicación web interactiva. Incluye tanto el backend como el frontend, y demuestra el uso de tecnologías modernas y buenas prácticas de desarrollo.
 
 ---
 

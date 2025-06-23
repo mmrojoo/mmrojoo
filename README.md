@@ -1,16 +1,30 @@
-### Mario Martín Rojo
+# 👋¡Hola, soy Mario Martín Rojo / mmrojoo!
 
-<!--
-**mmrojoo/mmrojoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología, el aprendizaje continuo y la construcción de proyectos con impacto. Aquí encontrarás una muestra de mi trabajo, mis intereses y el camino que estoy recorriendo como desarrollador.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mí
+
+- 🌱 Estoy en constante exploración de nuevas tecnologías y frameworks
+- 💡 Me encanta resolver problemas y compartir conocimiento.
+- 🤝 Siempre estoy abierto a colaborar en proyectos interesantes.
+---
+
+## 📌 Proyectos Destacados
+
+- [Project Name 1](#) — Short description of what it does.
+- [Project Name 2](#) — What makes it special.
+- [Project Name 3](#) — Technologies used.
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](#https://www.linkedin.com/in/mario-mart%C3%ADn-rojo-data-engineer/)
+
+
+¡Gracias por tu visita! No olvides dejar una ⭐️ en tus proyectos favoritos.
+
+```

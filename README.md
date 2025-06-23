@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub!
 
 Soy un apasionado de la tecnología, el aprendizaje continuo y la construcción de proyectos con impacto. Aquí encontrarás una muestra de mi trabajo, mis intereses y el camino que estoy recorriendo como desarrollador.
----
+
 
 ## 🚀 Sobre Mí
 

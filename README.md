@@ -18,7 +18,7 @@ Soy un apasionado de la tecnología, el aprendizaje continuo y la construcción 
 HockeyClubMaster es una aplicación desarrollada en Java destinada a la gestión integral de un club de hockey. Permite administrar jugadores, equipos, calendarios, resultados de partidos y estadísticas, facilitando la organización y el seguimiento de las actividades del club tanto para entrenadores como para directivos.
 
 ### [CHatBotCorporativo](https://github.com/mmrojoo/tfm)
-Este proyecto es el Trabajo Fin de Máster (TFM), desarrollado principalmente en HTML, Python y JavaScript. Su objetivo es abordar una problemática específica (puedes agregar aquí la temática concreta de tu TFM), implementando soluciones prácticas mediante una aplicación web interactiva. Incluye tanto el backend como el frontend, y demuestra el uso de tecnologías modernas y buenas prácticas de desarrollo.
+Este proyecto es un chatbot corporativo, diseñado para asistir a los usuarios en la generación de respuestas rápidas, redacción de mensajes y consultas internas/externas, optimizando la comunicación y garantizando la coherencia de marca en todas las interacciones.
 
 ---
 
